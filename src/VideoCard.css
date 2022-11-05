@@ -1,11 +1,11 @@
 .videoCard {
-  width: 270px;
+  width: 340px;
   margin-bottom: 40px;
 }
 
 .videoCard_thumbnail {
-  height: 140px;
-  width: 250px;
+  height: 171px;
+  width: 302px;
 }
 
 .videoCard_info {
@@ -28,7 +28,7 @@
   color: gray;
 }
 
-.videoCard_avatar{
-    height: 30px !important;
-    width: 30px !important;
+.videoCard_avatar {
+  height: 30px !important;
+  width: 30px !important;
 }
